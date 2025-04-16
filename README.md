@@ -3,8 +3,8 @@
 I am a professional data scientist, mostly interested in machine learning, reinforcement learning and robotics. Experimenting with web development, cloud technologies and other stuff. Github hosts some of my private repositories.
 
 ### Statistics 
-![Dominik GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DominikGithub&show_icons=true&custom_title=GitHub%20Stats)
-![DominikGithub GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominikGithub)
+![Dominik GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DominikGithub&show_icons=true&custom_title=GitHub%20Stats) </br>
+![DominikGithub GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominikGithub) </br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikGithub)
 
 ### Badges
